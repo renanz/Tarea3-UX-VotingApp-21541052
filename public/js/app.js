@@ -90,6 +90,7 @@ class Product extends React.Component {
   }
 }
 
+
 ReactDOM.render(
   <ProductList />,
   document.getElementById('content')
